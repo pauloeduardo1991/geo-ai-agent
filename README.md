@@ -1,6 +1,6 @@
-# AiContentOptimizationAgent Crew
+# GEO AI Crew
 
-Welcome to the AiContentOptimizationAgent Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+GEO Agent Crew with [CrewAI](https://crewai.com) automates AI-driven website content audits. Enter a URL, and the system crawls the site (with URL filtering), extracts H1s, generates and summarizes related queries using Gemini with Google Search, fetches Google AI Overviews via [Bright Data SERP API](https://brightdata.com/products/serp-api), compares results, and outputs actionable page-level optimization suggestions.
 
 ## Installation
 
@@ -52,3 +52,4 @@ For support, questions, or feedback regarding the AiContentOptimizationAgent Cre
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
