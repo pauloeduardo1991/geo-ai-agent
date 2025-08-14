@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://brightdata.com/">
+    <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="300" alt="Bright Data Logo">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue"/>
+</div>
+
+---
+
 # GEO AI Crew
 
 GEO Agent Crew with [CrewAI](https://crewai.com) automates AI-driven website content audits. Enter a URL, and the system crawls the site (with URL filtering), extracts H1s, generates and summarizes related queries using Gemini with Google Search, fetches Google AI Overviews via [Bright Data SERP API](https://brightdata.com/products/serp-api), compares results, and outputs actionable page-level optimization suggestions.
@@ -52,4 +65,5 @@ For support, questions, or feedback regarding the AiContentOptimizationAgent Cre
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
 
