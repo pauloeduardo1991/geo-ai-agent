@@ -15,6 +15,7 @@
 
 GEO Agent Crew with [CrewAI](https://crewai.com) automates AI-driven website content audits. Enter a URL, and the system crawls the site (with URL filtering), extracts H1s, generates and summarizes related queries using Gemini with Google Search, fetches Google AI Overviews via [Bright Data SERP API](https://brightdata.com/products/serp-api), compares results, and outputs actionable page-level optimization suggestions.
 
+<img src="https://github.com/brightdata/geo-ai-agent/blob/main/GEO%20diagram.png"/>
 ---
 
 ## 🛠️ Installation
@@ -86,6 +87,7 @@ For support, questions, or feedback regarding the AiContentOptimizationAgent Cre
 ---
 
 ✨ Let's create wonders together with the power and simplicity of Bright Data & crewAI.
+
 
 
 
