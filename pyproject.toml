@@ -2,7 +2,6 @@
 name = "ai_content_optimization_agent"
 version = "0.1.0"
 description = "AI Content Optimization using CrewAI"
-authors = [{ name = "Antonello Zanini", email = "antonello@writech.run" }]
 requires-python = ">=3.10,<3.14"
 dependencies = [
     "crewai[tools]>=0.157.0,<1.0.0"
